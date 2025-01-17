@@ -1,0 +1,410 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+SCLK01-177	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+BG1-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BG2-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BG3-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BP1-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BP2-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BP3-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BR1-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BR2-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+BR3-4504	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
+G11-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+G12-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+G13-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+G22-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+G23-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+P11-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+P12-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+P13-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+P22-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+P23-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+Q11-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+Q12-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+Q13-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+Q22-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+Q23-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+R11-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+R12-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+R13-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+R22-4504	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good	n/a
+MLC11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC15-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC16-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC17-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC25-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC55-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC61-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC62-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLC63-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF25-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF35-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF45-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF46-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF56-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF61-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF62-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF63-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF64-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF65-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF66-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLF67-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLO53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP35-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP45-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP55-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP56-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLP57-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT15-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT16-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT25-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT26-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT27-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT35-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT36-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT37-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT45-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT46-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT47-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT55-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT56-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MLT57-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC15-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC16-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC17-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC25-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC55-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC61-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC62-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRC63-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF25-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF35-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF45-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF46-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF55-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF56-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF61-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF62-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF63-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF64-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF65-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF66-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRF67-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRO53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP23-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP35-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP45-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP55-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP56-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRP57-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT11-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT12-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT13-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT14-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT15-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT16-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT21-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT22-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT24-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT25-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT26-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT27-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT31-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT32-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT33-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT34-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT35-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT36-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT37-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT41-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT42-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT43-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT44-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT45-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT46-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT47-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT51-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT52-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT53-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT54-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT55-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT56-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MRT57-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZC01-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZC02-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZC03-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZC04-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZF01-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZF02-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZF03-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZO01-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZO02-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZO03-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+MZP01-4504	MEGGRADAXIAL	T	0.0	600.0	Axial Gradiometer	1200.0	good	n/a
+HADC001-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HADC002-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HADC003-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HDAC001-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HDAC002-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HDAC003-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+UPPT001	TRIG	V	0.0	600.0	Trigger	1200.0	good	n/a
+HLC0011-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0012-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0013-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0021-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0022-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0023-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0031-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0032-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0033-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0018-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0028-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0038-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT101	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN101	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU101	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC101	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT102	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN102	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU102	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC102	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT103	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN103	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU103	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC103	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT104	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN104	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU104	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC104	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT105	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN105	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU105	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC105	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT106	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN106	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU106	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC106	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT107	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN107	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU107	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC107	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT108	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN108	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU108	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC108	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT109	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN109	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU109	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC109	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT110	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN110	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU110	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC110	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT701	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN701	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU701	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC701	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT703	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN703	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU703	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC703	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT704	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN704	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU704	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC704	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT705	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN705	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU705	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC705	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT706	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN706	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU706	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC706	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT707	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN707	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU707	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC707	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT708	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN708	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU708	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC708	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT709	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN709	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU709	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC709	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MSTAT710	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MRSYN710	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MPLLU710	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+MMSTC710	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0014-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0015-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0016-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0017-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0024-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0025-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0026-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0027-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0034-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0035-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0036-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
+HLC0037-4504	MISC	n/a	0.0	600.0	Miscellaneous	1200.0	good	n/a
