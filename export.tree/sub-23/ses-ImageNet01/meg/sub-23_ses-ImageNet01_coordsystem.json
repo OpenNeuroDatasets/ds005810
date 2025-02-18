@@ -1,0 +1,43 @@
+{
+    "MEGCoordinateSystem": "CTF",
+    "MEGCoordinateUnits": "cm",
+    "MEGCoordinateSystemDescription": "ALS orientation and the origin between the ears",
+    "HeadCoilCoordinates": {
+        "NAS": [
+            -3.469446951953614e-18,
+            0.09304770827293396,
+            0.0
+        ],
+        "LPA": [
+            -0.06668134778738022,
+            3.523577237648778e-18,
+            0.0
+        ],
+        "RPA": [
+            0.07679443806409836,
+            -3.4153166662584503e-18,
+            0.0
+        ]
+    },
+    "HeadCoilCoordinateSystem": "ElektaNeuromag",
+    "HeadCoilCoordinateUnits": "m",
+    "AnatomicalLandmarkCoordinates": {
+        "NAS": [
+            -3.469446951953614e-18,
+            0.09304770827293396,
+            0.0
+        ],
+        "LPA": [
+            -0.06668134778738022,
+            3.523577237648778e-18,
+            0.0
+        ],
+        "RPA": [
+            0.07679443806409836,
+            -3.4153166662584503e-18,
+            0.0
+        ]
+    },
+    "AnatomicalLandmarkCoordinateSystem": "CTF",
+    "AnatomicalLandmarkCoordinateUnits": "cm"
+}
