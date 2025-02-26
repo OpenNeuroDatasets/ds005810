@@ -36,10 +36,5 @@ The full time series data of preprocessed data are archived in the `derivatives/
 
 The trial information within each subject's epochs data can be accessed via the metadata of the epochs data, which are aligned with the content of the subject's `sub-subID_events.csv` file.
 
----
-
-# References
-Niso, G., Gorgolewski, K. J., Bock, E., Brooks, T. L., Flandin, G., Gramfort, A., Henson, R. N., Jas, M., Litvak, V., Moreau, J., Oostenveld, R., Schoffelen, J., Tadel, F., Wexler, J., Baillet, S. (2018). MEG-BIDS, the brain imaging data structure extended to magnetoencephalography. *Scientific Data, 5*, 180110. [https://doi.org/10.1038/sdata.2018.110](https://doi.org/10.1038/sdata.2018.110)
-
 
 
