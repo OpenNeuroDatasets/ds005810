@@ -11,13 +11,12 @@
         "Zheng Li",
         "Zonglei Zhen"
     ],
-    "Acknowledgements": "This research was supported by a Beijing Natural Science Foundation L247010 (ZZ), a General Program of National Natural Science Foundation of China 31771251 (ZZ), National Natural Science Foundation of China 62433015 (ZL) and STI 2030-Major Projects of the Ministry of Science and Technology of China 2021ZD0200407 (ZL). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication.",
+    "Acknowledgements": "This research was supported by Beijing Natural Science Foundation (L247010), National Natural Science Foundation of China (62433015, 31771251) and STI 2030-Major Projects of the Ministry of Science and Technology of China (2021ZD0200407). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication.",
     "HowToAcknowledge": "Please cite this paper.TODO: add doi",
     "Funding": [
         "Beijing Natural Science Foundation (#L247010)",
-        "General Program of National Natural Science Foundation of China (#31771251)",
-        "National Natural Science Foundation of China (#62433015)", 
-        "STI 2030-Major Projects of the Ministry of Science and Technology of China (#2021ZD0200407)"
+        "National Natural Science Foundation of China (#62433015, #31771251)",
+        "STI 2030-436 Major Projects of the Ministry of Science and Technology of China437 (#2021ZD0200407)"
     ],
     "EthicsApprovals": [
         "name: Beijing Normal University",
